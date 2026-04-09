@@ -41,3 +41,7 @@ docker run -p 8000:8000 --env-file .env rag-knowledge-base
 ```
 
 ## Environment Variables
+```bash
+HF_API_KEY=your_huggingface_token
+HF_TOKEN=your_huggingface_token
+```
